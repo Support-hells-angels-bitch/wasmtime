@@ -1,0 +1,1 @@
+searchState.loadedDescShard("wasmtime_test_macros", 0, "Wasmtime test macro.")
